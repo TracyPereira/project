@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EBF297A9-45FC-4666-A3E1-A52D8EABC24F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FilterUnwantedMSG_OSN</RootNamespace>
+    <AssemblyName>FilterUnwantedMSG_OSN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.5.7.429, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="IKVM.AWT.WinForms, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.AWT.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Beans, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Beans.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Charsets, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Charsets.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Cldrdata, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Cldrdata.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Corba, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Corba.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Jdbc, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Jdbc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Localedata, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Localedata.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Management, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Management.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Media, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Media.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Misc, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Misc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Naming, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Naming.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Nashorn, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Nashorn.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Remoting, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Remoting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Security, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.SwingAWT, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.SwingAWT.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Text, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Text.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Tools, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Tools.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Util, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.Util.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.API, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.API.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Bind, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.Bind.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Crypto, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Parse, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.Parse.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Transform, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.Transform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.WebServices, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.WebServices.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.XPath, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.OpenJDK.XML.XPath.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.Runtime, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IKVM.Runtime.JNI, Version=8.1.5717.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.8.1.5717.0\lib\IKVM.Runtime.JNI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="slf4j-api, Version=1.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Stanford.NLP.POSTagger.3.6.0.0\lib\slf4j-api.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="stanford-postagger-3.6.0, Version=3.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Stanford.NLP.POSTagger.3.6.0.0\lib\stanford-postagger-3.6.0.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\images\advising.png" />
+    <Content Include="Admin\images\demo\100x100.gif" />
+    <Content Include="Admin\images\demo\160x160.gif" />
+    <Content Include="Admin\images\demo\190x90.gif" />
+    <Content Include="Admin\images\demo\220x80.gif" />
+    <Content Include="Admin\images\demo\240x90.gif" />
+    <Content Include="Admin\images\demo\410x215.gif" />
+    <Content Include="Admin\images\demo\420x190.gif" />
+    <Content Include="Admin\images\demo\60x60.gif" />
+    <Content Include="Admin\images\demo\80x80.gif" />
+    <Content Include="Admin\images\demo\avatar.gif" />
+    <Content Include="Admin\images\demo\imgl.gif" />
+    <Content Include="Admin\images\demo\imgr.gif" />
+    <Content Include="Admin\images\demo\index.html" />
+    <Content Include="Admin\images\demo\slider\1.gif" />
+    <Content Include="Admin\images\demo\slider\2.gif" />
+    <Content Include="Admin\images\demo\slider\3.gif" />
+    <Content Include="Admin\images\demo\slider\4.gif" />
+    <Content Include="Admin\images\demo\slider\5.gif" />
+    <Content Include="Admin\images\demo\slider\index.html" />
+    <Content Include="Admin\images\demo\slider\Slider1.png" />
+    <Content Include="Admin\images\demo\slider\Slider2.jpg" />
+    <Content Include="Admin\images\demo\slider\Slider3.jpg" />
+    <Content Include="Admin\images\demo\slider\Slider4.jpg" />
+    <Content Include="Admin\images\demo\slider\Slider5.jpg" />
+    <Content Include="Admin\images\demo\video.gif" />
+    <Content Include="Admin\images\demo\worldmap.gif" />
+    <Content Include="Admin\images\index.html" />
+    <Content Include="Admin\images\Social-media-for-public-relations1.jpg" />
+    <Content Include="Admin\layout\images\index.html" />
+    <Content Include="Admin\layout\images\search.gif" />
+    <Content Include="Admin\layout\index.html" />
+    <Content Include="Admin\layout\scripts\index.html" />
+    <Content Include="Admin\layout\scripts\jquery.min.js" />
+    <Content Include="Admin\layout\scripts\jquery.tabs.setup.js" />
+    <Content Include="Admin\layout\scripts\jquery.ui.min.js" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\btnNext.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\btnPrevious.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\contentPattern.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\default_thumbnail.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_rounded\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\btnNext.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\btnPrevious.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\contentPattern.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\default_thumbnail.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\dark_square\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\default_thumb.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\sprite_next.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\sprite_prev.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\sprite_x.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\default\sprite_y.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\btnNext.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\btnPrevious.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\contentPatternBottom.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\contentPatternLeft.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\contentPatternRight.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\contentPatternTop.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\default_thumbnail.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\facebook\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\btnNext.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\btnPrevious.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\default_thumbnail.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_rounded\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\btnNext.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\btnPrevious.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\default_thumbnail.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\loader.gif" />
+    <Content Include="Admin\layout\scripts\prettyphoto\images\light_square\sprite.png" />
+    <Content Include="Admin\layout\scripts\prettyphoto\index.html" />
+    <Content Include="Admin\layout\scripts\prettyphoto\jquery.prettyPhoto.js" />
+    <Content Include="Admin\layout\scripts\prettyphoto\prettyPhoto.css" />
+    <Content Include="Admin\layout\styles\3_column.css" />
+    <Content Include="Admin\layout\styles\featured_slide.css" />
+    <Content Include="Admin\layout\styles\forms.css" />
+    <Content Include="Admin\layout\styles\gallery.css" />
+    <Content Include="Admin\layout\styles\homepage.css" />
+    <Content Include="Admin\layout\styles\images\black_file.gif" />
+    <Content Include="Admin\layout\styles\images\blue_file.gif" />
+    <Content Include="Admin\layout\styles\images\featured_slide_left.png" />
+    <Content Include="Admin\layout\styles\images\featured_slide_right.png" />
+    <Content Include="Admin\layout\styles\images\featured_slide_trans.png" />
+    <Content Include="Admin\layout\styles\images\form_input_long.gif" />
+    <Content Include="Admin\layout\styles\images\index.html" />
+    <Content Include="Admin\layout\styles\images\round_bot.gif" />
+    <Content Include="Admin\layout\styles\images\round_top.gif" />
+    <Content Include="Admin\layout\styles\images\social-sprite.gif" />
+    <Content Include="Admin\layout\styles\images\twitter_bg.gif" />
+    <Content Include="Admin\layout\styles\images\twitter_logo.gif" />
+    <Content Include="Admin\layout\styles\index.html" />
+    <Content Include="Admin\layout\styles\layout.css" />
+    <Content Include="Admin\layout\styles\navi.css" />
+    <Content Include="Admin\layout\styles\portfolio.css" />
+    <Content Include="Admin\layout\styles\tables1.css" />
+    <Content Include="Admin\Login.aspx" />
+    <Content Include="Admin\Default.aspx" />
+    <Content Include="Admin\ManageWords.aspx" />
+    <Content Include="Admin\FriendshipClassify.aspx" />
+    <Content Include="bin\FilterUnwantedMSG_OSN.dll" />
+    <Content Include="bin\FilterUnwantedMSG_OSN.pdb" />
+    <Content Include="images\advising.png" />
+    <Content Include="images\demo\100x100.gif" />
+    <Content Include="images\demo\160x160.gif" />
+    <Content Include="images\demo\190x90.gif" />
+    <Content Include="images\demo\220x80.gif" />
+    <Content Include="images\demo\240x90.gif" />
+    <Content Include="images\demo\410x215.gif" />
+    <Content Include="images\demo\420x190.gif" />
+    <Content Include="images\demo\60x60.gif" />
+    <Content Include="images\demo\80x80.gif" />
+    <Content Include="images\demo\avatar.gif" />
+    <Content Include="images\demo\imgl.gif" />
+    <Content Include="images\demo\imgr.gif" />
+    <Content Include="images\demo\index.html" />
+    <Content Include="images\demo\slider\1.gif" />
+    <Content Include="images\demo\slider\2.gif" />
+    <Content Include="images\demo\slider\3.gif" />
+    <Content Include="images\demo\slider\4.gif" />
+    <Content Include="images\demo\slider\5.gif" />
+    <Content Include="images\demo\slider\index.html" />
+    <Content Include="images\demo\slider\Slider1.png" />
+    <Content Include="images\demo\slider\Slider2.jpg" />
+    <Content Include="images\demo\slider\Slider3.jpg" />
+    <Content Include="images\demo\slider\Slider4.jpg" />
+    <Content Include="images\demo\slider\Slider5.jpg" />
+    <Content Include="images\demo\video.gif" />
+    <Content Include="images\demo\worldmap.gif" />
+    <Content Include="images\index.html" />
+    <Content Include="layout\images\index.html" />
+    <Content Include="layout\images\search.gif" />
+    <Content Include="layout\index.html" />
+    <Content Include="layout\scripts\index.html" />
+    <Content Include="layout\scripts\jquery.min.js" />
+    <Content Include="layout\scripts\jquery.tabs.setup.js" />
+    <Content Include="layout\scripts\jquery.ui.min.js" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\btnNext.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\btnPrevious.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\contentPattern.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\default_thumbnail.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_rounded\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\btnNext.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\btnPrevious.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\contentPattern.png" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\default_thumbnail.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\dark_square\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\default_thumb.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\default\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\default\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\sprite_next.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\sprite_prev.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\sprite_x.png" />
+    <Content Include="layout\scripts\prettyphoto\images\default\sprite_y.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\btnNext.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\btnPrevious.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\contentPatternBottom.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\contentPatternLeft.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\contentPatternRight.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\contentPatternTop.png" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\default_thumbnail.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\facebook\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\images\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\btnNext.png" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\btnPrevious.png" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\default_thumbnail.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\light_rounded\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\btnNext.png" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\btnPrevious.png" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\default_thumbnail.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\index.html" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\loader.gif" />
+    <Content Include="layout\scripts\prettyphoto\images\light_square\sprite.png" />
+    <Content Include="layout\scripts\prettyphoto\index.html" />
+    <Content Include="layout\scripts\prettyphoto\jquery.prettyPhoto.js" />
+    <Content Include="layout\scripts\prettyphoto\prettyPhoto.css" />
+    <Content Include="layout\styles\3_column.css" />
+    <Content Include="layout\styles\featured_slide.css" />
+    <Content Include="layout\styles\forms.css" />
+    <Content Include="layout\styles\gallery.css" />
+    <Content Include="layout\styles\homepage.css" />
+    <Content Include="layout\styles\images\black_file.gif" />
+    <Content Include="layout\styles\images\blue_file.gif" />
+    <Content Include="layout\styles\images\featured_slide_left.png" />
+    <Content Include="layout\styles\images\featured_slide_right.png" />
+    <Content Include="layout\styles\images\featured_slide_trans.png" />
+    <Content Include="layout\styles\images\form_input_long.gif" />
+    <Content Include="layout\styles\images\index.html" />
+    <Content Include="layout\styles\images\round_bot.gif" />
+    <Content Include="layout\styles\images\round_top.gif" />
+    <Content Include="layout\styles\images\social-sprite.gif" />
+    <Content Include="layout\styles\images\twitter_bg.gif" />
+    <Content Include="layout\styles\images\twitter_logo.gif" />
+    <Content Include="layout\styles\index.html" />
+    <Content Include="layout\styles\layout.css" />
+    <Content Include="layout\styles\navi.css" />
+    <Content Include="layout\styles\portfolio.css" />
+    <Content Include="layout\styles\tables1.css" />
+    <Content Include="obj\Debug\FilterUnwantedMSG_OSN.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\FilterUnwantedMSG_OSN.dll" />
+    <Content Include="obj\Debug\FilterUnwantedMSG_OSN.pdb" />
+    <Content Include="pages\3-columns.html" />
+    <Content Include="pages\full-width.html" />
+    <Content Include="pages\gallery.html" />
+    <Content Include="pages\index.html" />
+    <Content Include="pages\portfolio.html" />
+    <Content Include="pages\style-demo.html" />
+    <Content Include="recommend.aspx" />
+    <Content Include="Recommendation.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Login.aspx" />
+    <Content Include="Registration.aspx" />
+    <Content Include="Profile.aspx" />
+    <Content Include="FindFriend.aspx" />
+    <Content Include="Request.aspx" />
+    <Content Include="FriendList.aspx" />
+    <Content Include="Wall.aspx" />
+    <Content Include="Freindship.aspx" />
+    <Content Include="WebForm9.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManageWords.aspx.cs">
+      <DependentUpon>ManageWords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ManageWords.aspx.designer.cs">
+      <DependentUpon>ManageWords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FriendshipClassify.aspx.cs">
+      <DependentUpon>FriendshipClassify.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\FriendshipClassify.aspx.designer.cs">
+      <DependentUpon>FriendshipClassify.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recommend.aspx.cs">
+      <DependentUpon>recommend.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recommend.aspx.designer.cs">
+      <DependentUpon>recommend.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.aspx.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registration.aspx.designer.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FindFriend.aspx.cs">
+      <DependentUpon>FindFriend.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FindFriend.aspx.designer.cs">
+      <DependentUpon>FindFriend.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Request.aspx.cs">
+      <DependentUpon>Request.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Request.aspx.designer.cs">
+      <DependentUpon>Request.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FriendList.aspx.cs">
+      <DependentUpon>FriendList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FriendList.aspx.designer.cs">
+      <DependentUpon>FriendList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Wall.aspx.cs">
+      <DependentUpon>Wall.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Wall.aspx.designer.cs">
+      <DependentUpon>Wall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Freindship.aspx.cs">
+      <DependentUpon>Freindship.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Freindship.aspx.designer.cs">
+      <DependentUpon>Freindship.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm9.aspx.cs">
+      <DependentUpon>WebForm9.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm9.aspx.designer.cs">
+      <DependentUpon>WebForm9.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Admin\Scripts\" />
+    <Folder Include="Admin\Styles\" />
+    <Folder Include="App_Data\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="ProfilePic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Site1.Master" />
+    <None Include="bin\english-caseless-left3words-distsim.tagger" />
+    <None Include="bin\english-caseless-left3words-distsim.tagger.props" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2718</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

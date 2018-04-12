@@ -1,0 +1,354 @@
+E:\Project 2014-2015\Filter Unwanted Messages from OSN User Walls\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+E:\Project 2014-2015\Filter Unwanted Messages from OSN User Walls\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+E:\Project 2014-2015\Filter Unwanted Messages from OSN User Walls\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+E:\Project 2014-2015\Filter Unwanted Messages from OSN User Walls\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+E:\Project 2014-2015\Filter Unwanted Messages from OSN User Walls\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+D:\Nivruti\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+D:\Nivruti\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+D:\Project-16-17\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+D:\Project-16-17\FilterUnwantedMSG\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll.config
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+D:\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+D:\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+E:\Project_2015-2016\Vishal ME\FilterUnwantedMSG_OSN\12-Jun-17\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\FilterUnwantedMSG_OSN.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\FilterUnwantedMSG_OSN.pdb
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.AWT.WinForms.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Beans.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Charsets.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Cldrdata.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Corba.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Core.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Jdbc.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Localedata.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Management.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Media.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Misc.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Naming.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Nashorn.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Remoting.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Security.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Text.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Tools.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Util.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.API.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Crypto.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Transform.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.WebServices.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.XPath.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.Runtime.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.Runtime.JNI.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\slf4j-api.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\bin\stanford-postagger-3.6.0.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\obj\Debug\FilterUnwantedMSG_OSN.dll
+E:\Project 2016_2017\VishalME-12-Jun-17_Final\ProectWork\FilterUnwantedMSG_OSN_18_07-2017\obj\Debug\FilterUnwantedMSG_OSN.pdb
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\FilterUnwantedMSG_OSN.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\FilterUnwantedMSG_OSN.pdb
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.AWT.WinForms.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Beans.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Charsets.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Cldrdata.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Corba.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Core.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Jdbc.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Localedata.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Management.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Media.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Misc.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Naming.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Nashorn.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Remoting.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Security.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.SwingAWT.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Text.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Tools.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.Util.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.API.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Bind.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Crypto.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Parse.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.Transform.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.WebServices.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.OpenJDK.XML.XPath.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.Runtime.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\IKVM.Runtime.JNI.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\slf4j-api.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\bin\stanford-postagger-3.6.0.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\obj\Debug\FilterUnwantedMSG_OSN.dll
+H:\Project_2017_18\facebook recommendation\FilterUnwantedMSG_OSN_18_07-2017\obj\Debug\FilterUnwantedMSG_OSN.pdb
+D:\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll.config
+D:\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.dll
+D:\FilterUnwantedMSG_OSN\bin\FilterUnwantedMSG_OSN.pdb
+D:\FilterUnwantedMSG_OSN\bin\IKVM.AWT.WinForms.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Beans.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Charsets.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Corba.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Core.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Jdbc.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Localedata.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Management.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Media.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Misc.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Naming.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Nashorn.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Remoting.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Security.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Text.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Tools.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.Util.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.API.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.dll
+D:\FilterUnwantedMSG_OSN\bin\IKVM.Runtime.JNI.dll
+D:\FilterUnwantedMSG_OSN\bin\slf4j-api.dll
+D:\FilterUnwantedMSG_OSN\bin\stanford-postagger-3.6.0.dll
+D:\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.csprojResolveAssemblyReference.cache
+D:\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.dll
+D:\FilterUnwantedMSG_OSN\obj\Debug\FilterUnwantedMSG_OSN.pdb
